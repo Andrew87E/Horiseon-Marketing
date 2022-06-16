@@ -7,6 +7,9 @@
 ## Demo
 Here is a demo of it in action : https://andrew87e.github.io/Horiseon-Marketing/
 
+## Bug Reporters
+[Cade Coleman](https://github.com/cade-coleman)
+
 ## Team
 
 [![Andrew Edwards](https://avatars.githubusercontent.com/u/106359255?size=100)](https://github.com/andrew87e)
