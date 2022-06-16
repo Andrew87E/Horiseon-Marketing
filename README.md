@@ -10,6 +10,7 @@ Here is a demo of it in action : https://andrew87e.github.io/Horiseon-Marketing/
 ## Team
 
 [(https://avatars.githubusercontent.com/u/106359255?size=100)](https://github.com/andrew87e)
+---
 [Andrew Edwards](https://github.com/andrew87e)
 
 ## [License](https://github.com/Andrew87E/Horiseon-Marketing/blob/main/LICENSE)
