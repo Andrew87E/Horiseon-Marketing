@@ -7,6 +7,25 @@
 ## Demo
 Here is a demo of it in action : https://andrew87e.github.io/Horiseon-Marketing/
 
+## Changes Made
+<details>
+   
+   <summary>Click to expand</summary>
+   
+   ## Changes
+   
+   1. Changed all div elements to semantic elements for better accessibility based off of [This documentation](https://www.w3.org/WAI/tips/developing/)
+   2. Added titles and tags to better follow accessibility standards and search engine optimization 
+   3. Reordered code to better follow positioning
+   4. Added icon and image elements
+   5. Added alt tags for accessibility
+   6. Cleaned up CSS
+   7. Deployed to github pages [Live URL](https://andrew87e.github.io/Horiseon-Marketing/)
+   8. Created detailed [Readme.md](https://github.com/Andrew87E/Horiseon-Marketing/blob/main/README.md)
+   
+</details>
+   
+   
 ## Bug Reporters
 [Cade Coleman](https://github.com/cade-coleman)
 
