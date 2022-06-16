@@ -9,9 +9,9 @@ Here is a demo of it in action : https://andrew87e.github.io/Horiseon-Marketing/
 
 ## Team
 
-<img src="https://github.com/andrew87e">
----
-[Andrew Edwards](https://github.com/andrew87e)
+<img src="https://avatars.githubusercontent.com/u/106359255?size=100">
+
+[![Andrew Edwards](https://github.com/andrew87e)]
 
 ## [License](https://github.com/Andrew87E/Horiseon-Marketing/blob/main/LICENSE)
  
