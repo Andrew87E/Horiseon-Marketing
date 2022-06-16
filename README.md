@@ -1,4 +1,5 @@
-# ![Horiseon-Marketing](./assets/images/2022-06-15_19-50.png?raw=true "Screenshot")
+# ![Horiseon-Marketing](https://github.com/Andrew87E/Horiseon-Marketing/blob/6fee9cdd67cc639ba3deef055f536c0aa612b08d/assets/images/2022-06-15_19-50.png?size=250 "Screenshot")
+
 # Horiseon-Marketing
     A webpage rewritten with semantic HTML elements.
 
@@ -8,7 +9,7 @@ Here is a demo of it in action : https://andrew87e.github.io/Horiseon-Marketing/
 
 ## Team
 
- | [Andrew Edwards](https://github.com/andrew87e) [<img src="./assets/images/thatsame.jpg" width=100 height=150>](https://github.com/andrew87e) | 
+ | [![Andrew Edwards](https://avatars.githubusercontent.com/u/106359255?size=100)](https://github.com/andrew87e)
 
 ## [License](https://github.com/Andrew87E/Horiseon-Marketing/blob/main/LICENSE)
  
