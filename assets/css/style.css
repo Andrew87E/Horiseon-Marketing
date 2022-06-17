@@ -22,6 +22,8 @@ body {
 
 .header h1 .seo {
     color: #c1c1c1;
+    text-decoration: none;
+    cursor: auto;
 }
 
 .navigation{
@@ -39,6 +41,12 @@ body {
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
+}
+
+.catt {
+    color: azure;
+    background-color: black;
+    background-image: url(../images/photo-1574144611937-0df059b5ef3e.jpg)
 }
 
 a {
@@ -82,7 +90,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* Set image to left side */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -105,7 +113,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* set image to right side */
 .float-right {
     float: right;
     margin-left: 25px;
