@@ -22,6 +22,8 @@ Here is a demo of it in action : https://andrew87e.github.io/Horiseon-Marketing/
    6. Cleaned up CSS
    7. Deployed to github pages [Live URL](https://andrew87e.github.io/Horiseon-Marketing/)
    8. Created detailed [Readme.md](https://github.com/Andrew87E/Horiseon-Marketing/blob/main/README.md)
+   9. Added small js functionality
+   10. Easter egg! Submit an issue if you found it!
    
 </details>
    
