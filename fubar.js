@@ -17,6 +17,6 @@ const seo = document.getElementsByClassName('.seo')
     var top = ((height / 2) - (h / 2)) + dualScreenTop;
         
     function catClick() {
-        window.open("http://www.w3schools.com", "", "width=200,height=100, top=' + top + ', left=' + left");
+        window.open("https://andrew87e.github.io/Horiseon-Marketing/catwin.html", "", "width=800,height=800, top=' + top + ', left=' + left");
         }
     
