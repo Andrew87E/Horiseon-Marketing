@@ -1,12 +1,3 @@
-const hero = document.querySelector(".hero");
-const y = document.getElementsByTagName(img);
-const seo = document.getElementsByClassName('.seo')
-
-
-// function catClick(){
-    // alert("Search Engine Optimization is awesome!")
-// }
-
     var dualScreenLeft = window.screenLeft != undefined ? window.screenLeft : screen.left;
     var dualScreenTop = window.screenTop != undefined ? window.screenTop : screen.top;
     
