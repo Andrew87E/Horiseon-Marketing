@@ -32,7 +32,7 @@ Here is a demo of it in action : https://andrew87e.github.io/Horiseon-Marketing/
 ## Contributors
 
 [Cade Coleman](https://github.com/cade-coleman) <br>
-[Jeffery Littleton](https://github.com/littletonjeffrey)
+[Jeffery Littleton](https://github.com/littletonjeffrey)<br>
 [Sara Baqla](https://github.com/missatrox44/) <br>
 [Chelsea Sexton](https://github.com/chelsea314) <br>
 [Brian Lalli](https://github.com/BrianLalli) <br>
