@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/*  Header class settings along with child settings  */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,41 +25,36 @@ body {
     color: #c1c1c1;
     text-decoration: none;
     cursor: auto;
+    font-size: 48px;
 }
 
-.navigation{
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
+    font-size: 26px;
 }
 
-.header nav ul {
-    list-style-type: none;
-}
-
-.header nav ul li {
+.header nav li {
     display: inline-block;
     margin-left: 25px;
+    
 }
 
-.catt {
-    color: azure;
-    text-align: center;
-    background-color: black;
-    background-image: url(../images/photo-1574144611937-0df059b5ef3e.jpg)
-}
-
+/* all a tags */
 a {
     color: #ffffff;
     text-decoration: none;
+    font-size: 26px;
 }
 
+/* all paragraph tags */
 p {
     font-size: 16px;
 }
 
+/* hero image */
 .hero {
     height: 800px;
     width: 100%;
@@ -68,76 +64,26 @@ p {
     background-position: center;
 }
 
+/* left img alignment */
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+/* right img align */
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+/* main section */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-.search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-/* Set image to left side */
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-/* set image to right side */
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
+/* bnefits parent properties */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -149,54 +95,53 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+/* benefits children */
+.seo-benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-lead h3 {
+/* benefits headers */
+.seo-benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-lead img {
+/* benefits img format */
+.seo-benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit-brand {
-    margin-bottom: 32px;
+/*  main content format  */
+.hori-content {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
     color: #ffffff;
 }
 
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
+/* main img sizing */
+.hori-content img {
+    max-height: 200px;
 }
 
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
+/* headers in main */
+.hori-content h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
 }
 
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
+/* p tags in main */
+.hori-content p {
+
+    font-size: 20px;
 }
 
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
+/* footer class and children */
 .footer {
     padding: 30px;
     clear: both;
@@ -206,4 +151,15 @@ p {
 
 .footer h2 {
     font-size: 20px;
+}
+
+/* :D */
+
+.catt {
+    color: #0b96ec;
+    text-decoration: wavy;
+    text-shadow: chartreuse;
+    text-align: center;
+    background-color: black;
+    background-image: url(../images/photo-1574144611937-0df059b5ef3e.jpg)
 }
