@@ -1,7 +1,7 @@
 # ![Horiseon-Marketing](https://github.com/Andrew87E/Horiseon-Marketing/blob/6fee9cdd67cc639ba3deef055f536c0aa612b08d/assets/images/2022-06-15_19-50.png?size=250 "Screenshot")
 
 # Horiseon-Marketing
-   Homework Challenge-01. A webpage rewritten with semantic HTML elements.
+   Homework Challenge-01. A webpage refactored with semantic HTML elements.
 
 
 ## Demo
